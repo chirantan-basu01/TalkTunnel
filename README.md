@@ -23,4 +23,4 @@ The following features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[![Startchat]()](https://youtu.be/QcN9-bgkM0k "Startchat")
+[![ChatApp]()](https://youtu.be/QcN9-bgkM0k "ChatApp")
