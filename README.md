@@ -1,16 +1,26 @@
-# chat_app
+# ChatApp
 
-A new Flutter project.
+## *Chirantan Basu*
 
-## Getting Started
+**ChatApp** is an app that is used to chat with friends.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+The following features are implemented:
+* [x] Sign In
+* [x] Create New Account
+* [x] Dark theme/ Light theme
+* [x] Secure chat
+* [x] Log out
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Tech Used
+**Server**: Firebase Auth, Firestore 
+**Client**: Flutter
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+[![Startchat]()](https://youtu.be/QcN9-bgkM0k "Startchat")
